@@ -1,0 +1,2 @@
+# Bank-App
+This is a sample Bank-App&lt;br/>this app connects to a sample server(maybe the server does not respond when you run it)&lt;br/>You can test this app with your own server:)&lt;br/>this app manages all things that a bank needs like :&lt;br/>Create bank account&lt;br/>Show all Bank accounts&lt;br/>User sign up&lt;br/>Get Bank account Logs&lt;br/>Show All transactions&lt;br/>Make Transactions and ...&lt;br/>this app written in python usign pygame and so simple to work with it .&lt;br/>Hope it helps you :)
