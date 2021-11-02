@@ -4,6 +4,7 @@
 This is a sample Bank-App . this app connects to a sample server(maybe the server does not respond when you run it) . You can test this app with your own server:) . this app manages all things that a bank needs like : 
 
 -Create bank account 
+
 -Show all Bank accounts 
 -User sign up 
 -Get Bank account Logs 
