@@ -6,12 +6,17 @@ This is a sample Bank-App . this app connects to a sample server(maybe the serve
 -Create bank account 
 
 -Show all Bank accounts 
+
 -User sign up 
+
 -Get Bank account Logs 
+
 -Show All transactions 
+
 -Make Transactions and etc. 
 
 This app written in python using pygame and so simple to work with it . Hope it helps you :)
+
 
 # Options Menu
 
